@@ -12,3 +12,4 @@ C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\refi
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.pdb
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.genruntimeconfig.cache
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\ref\constructores.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.sourcelink.json
