@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quiz-enanos/1.0.0": {
+        "runtime": {
+          "quiz-enanos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quiz-enanos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

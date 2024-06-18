@@ -1,0 +1,14 @@
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\bin\Debug\net8.0\csharp-notes.exe
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\bin\Debug\net8.0\csharp-notes.deps.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\bin\Debug\net8.0\csharp-notes.runtimeconfig.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\bin\Debug\net8.0\csharp-notes.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\bin\Debug\net8.0\csharp-notes.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.AssemblyInfoInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.AssemblyInfo.cs
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\refint\csharp-notes.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\csharp-notes.genruntimeconfig.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\csharp-notes\obj\Debug\net8.0\ref\csharp-notes.dll

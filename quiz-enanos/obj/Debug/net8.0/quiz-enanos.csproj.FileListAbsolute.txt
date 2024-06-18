@@ -1,0 +1,14 @@
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\bin\Debug\net8.0\quiz-enanos.exe
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\bin\Debug\net8.0\quiz-enanos.deps.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\bin\Debug\net8.0\quiz-enanos.runtimeconfig.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\bin\Debug\net8.0\quiz-enanos.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\bin\Debug\net8.0\quiz-enanos.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.AssemblyInfoInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.AssemblyInfo.cs
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\refint\quiz-enanos.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.genruntimeconfig.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\ref\quiz-enanos.dll

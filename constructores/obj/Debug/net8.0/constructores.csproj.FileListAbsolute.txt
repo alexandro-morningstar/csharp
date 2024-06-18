@@ -1,0 +1,14 @@
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.AssemblyInfoInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.AssemblyInfo.cs
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\bin\Debug\net8.0\constructores.exe
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\bin\Debug\net8.0\constructores.deps.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\bin\Debug\net8.0\constructores.runtimeconfig.json
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\bin\Debug\net8.0\constructores.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\bin\Debug\net8.0\constructores.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\refint\constructores.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.pdb
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\constructores.genruntimeconfig.cache
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\constructores\obj\Debug\net8.0\ref\constructores.dll
