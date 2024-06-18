@@ -1,0 +1,14 @@
+C:\Users\Aleja\source\repos\bucles\bucles\bin\Debug\net8.0\bucles.exe
+C:\Users\Aleja\source\repos\bucles\bucles\bin\Debug\net8.0\bucles.deps.json
+C:\Users\Aleja\source\repos\bucles\bucles\bin\Debug\net8.0\bucles.runtimeconfig.json
+C:\Users\Aleja\source\repos\bucles\bucles\bin\Debug\net8.0\bucles.dll
+C:\Users\Aleja\source\repos\bucles\bucles\bin\Debug\net8.0\bucles.pdb
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.AssemblyInfoInputs.cache
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.AssemblyInfo.cs
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.dll
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\refint\bucles.dll
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.pdb
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\bucles.genruntimeconfig.cache
+C:\Users\Aleja\source\repos\bucles\bucles\obj\Debug\net8.0\ref\bucles.dll

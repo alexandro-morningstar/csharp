@@ -1,0 +1,14 @@
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\bin\Debug\net8.0\Sintaxis-basica.exe
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\bin\Debug\net8.0\Sintaxis-basica.deps.json
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\bin\Debug\net8.0\Sintaxis-basica.runtimeconfig.json
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\bin\Debug\net8.0\Sintaxis-basica.dll
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\bin\Debug\net8.0\Sintaxis-basica.pdb
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.AssemblyInfoInputs.cache
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.AssemblyInfo.cs
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.dll
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\refint\Sintaxis-basica.dll
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.pdb
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\Sintaxis-basica.genruntimeconfig.cache
+C:\Users\Aleja\source\repos\Sintaxis-basica\Sintaxis-basica\obj\Debug\net8.0\ref\Sintaxis-basica.dll

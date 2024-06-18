@@ -1,0 +1,14 @@
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\bin\Debug\net8.0\CondicionalIFAndSwitch.exe
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\bin\Debug\net8.0\CondicionalIFAndSwitch.deps.json
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\bin\Debug\net8.0\CondicionalIFAndSwitch.runtimeconfig.json
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\bin\Debug\net8.0\CondicionalIFAndSwitch.dll
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\bin\Debug\net8.0\CondicionalIFAndSwitch.pdb
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.AssemblyInfoInputs.cache
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.AssemblyInfo.cs
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.dll
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\refint\CondicionalIFAndSwitch.dll
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.pdb
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\CondicionalIFAndSwitch.genruntimeconfig.cache
+C:\Users\Aleja\source\repos\CondicionalIFAndSwitch\CondicionalIFAndSwitch\obj\Debug\net8.0\ref\CondicionalIFAndSwitch.dll

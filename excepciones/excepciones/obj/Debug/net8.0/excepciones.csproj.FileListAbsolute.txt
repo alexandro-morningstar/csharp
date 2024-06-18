@@ -1,0 +1,14 @@
+C:\Users\Aleja\source\repos\excepciones\excepciones\bin\Debug\net8.0\excepciones.exe
+C:\Users\Aleja\source\repos\excepciones\excepciones\bin\Debug\net8.0\excepciones.deps.json
+C:\Users\Aleja\source\repos\excepciones\excepciones\bin\Debug\net8.0\excepciones.runtimeconfig.json
+C:\Users\Aleja\source\repos\excepciones\excepciones\bin\Debug\net8.0\excepciones.dll
+C:\Users\Aleja\source\repos\excepciones\excepciones\bin\Debug\net8.0\excepciones.pdb
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.AssemblyInfoInputs.cache
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.AssemblyInfo.cs
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.dll
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\refint\excepciones.dll
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.pdb
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\excepciones.genruntimeconfig.cache
+C:\Users\Aleja\source\repos\excepciones\excepciones\obj\Debug\net8.0\ref\excepciones.dll

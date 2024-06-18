@@ -1,0 +1,14 @@
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\net8.0\EjercicioMetodos.exe
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\net8.0\EjercicioMetodos.deps.json
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\net8.0\EjercicioMetodos.runtimeconfig.json
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\net8.0\EjercicioMetodos.dll
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\net8.0\EjercicioMetodos.pdb
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.AssemblyInfoInputs.cache
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.AssemblyInfo.cs
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.dll
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\refint\EjercicioMetodos.dll
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.pdb
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.genruntimeconfig.cache
+C:\Users\Aleja\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\ref\EjercicioMetodos.dll

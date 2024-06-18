@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sintaxis-basica/1.0.0": {
+        "runtime": {
+          "Sintaxis-basica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sintaxis-basica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
