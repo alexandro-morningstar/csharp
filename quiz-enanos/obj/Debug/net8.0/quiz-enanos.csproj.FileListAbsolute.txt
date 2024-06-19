@@ -12,3 +12,4 @@ C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\refint
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.pdb
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.genruntimeconfig.cache
 C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\ref\quiz-enanos.dll
+C:\Users\Aleja\Workspace\c#-sql-bootstrap\c#\quiz-enanos\obj\Debug\net8.0\quiz-enanos.sourcelink.json

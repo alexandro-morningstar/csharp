@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quiz-enanos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42de0d7e5ee9acc39c7de80993364528fbda79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("quiz-enanos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quiz-enanos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
